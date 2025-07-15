@@ -217,19 +217,6 @@ section{
     margin: 2rem 0;
 }
 
-.biography-text h1 {
-    line-break: strict;
-}
-
-.education h1{
-    font-size: 18px;
-    font-weight: 600;
-    min-width: 280px;
-    margin-top: 4rem;
-    margin-bottom: 2rem;
-    text-align: justify;
-}
-
 .social-icons{
     display: flex;
     justify-content: center;
